@@ -9,7 +9,7 @@
     "imageUrl": "https://raw.githubusercontent.com/Ender-events/jellyfin-spotlight-trending/main/images/tmdbtrending_logo_full.png",
     "versions": [
       {
-        "checksum": "17ba4a0d4cc1c78c29f8d6992b86a92e4256e573b28c5474d6052a552386df70",
+        "checksum": "c392b2575d401dbf29fde71007b09f38",
         "changelog": "alpha",
         "targetAbi": "10.11.0",
         "sourceUrl": "https://github.com/Ender-events/jellyfin-spotlight-trending/releases/download/v0.1.2/tmdbtrending_0.1.2.0.zip",
