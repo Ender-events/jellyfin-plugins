@@ -9,6 +9,14 @@
     "imageUrl": "https://raw.githubusercontent.com/Ender-events/jellyfin-spotlight-trending/main/images/tmdbtrending_logo_full.png",
     "versions": [
       {
+        "checksum": "ea9ca94e48a29e87d346ec105523a235",
+        "changelog": "add edito",
+        "targetAbi": "10.11.0",
+        "sourceUrl": "https://github.com/Ender-events/jellyfin-spotlight-trending/releases/download/v0.1.3/tmdbtrending_0.1.3.0.zip",
+        "timestamp": "2026-05-23 22:32:00",
+        "version": "0.1.3.0"
+      },
+      {
         "checksum": "c392b2575d401dbf29fde71007b09f38",
         "changelog": "alpha",
         "targetAbi": "10.11.0",
